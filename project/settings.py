@@ -19,8 +19,6 @@ DATABASES = {
     }
 }
 
-#DEBUG = os.getenv("DEBUG")
-
 INSTALLED_APPS = ['datacenter']
 
 SECRET_KEY = os.getenv("SECRET_KEY")
