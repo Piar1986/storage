@@ -1,1 +1,7 @@
 *.env
+datacenter.egg-info/
+*pycache__/
+poetry.lock
+pyproject.tmp
+pyproject.toml
+setup.py
